@@ -1,0 +1,8 @@
+README.md
+setup.py
+chippermillet/__init__.py
+chippermillet/core.py
+chippermillet.egg-info/PKG-INFO
+chippermillet.egg-info/SOURCES.txt
+chippermillet.egg-info/dependency_links.txt
+chippermillet.egg-info/top_level.txt
